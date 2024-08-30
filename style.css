@@ -4,7 +4,9 @@ body {
   background-color: #f4f4f4;
   margin: 0;
   padding: 10px;
-  border-radius: 50%;
+
+  width: 350px;
+  height: 400px;
 }
 
 h1 {
